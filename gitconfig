@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = henri.slang@gmail.com
+	name = Henrique Langnas
